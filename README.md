@@ -1,4 +1,2 @@
 Projet
 ======
-Au boulot!
-Hihi
